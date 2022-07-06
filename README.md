@@ -2,17 +2,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzodkin33&layout=compact&theme=onedark&)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**dzodkin33/dzodkin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd year math-cs student at UCSD.
 
-Here are some ideas to get you started:
+My current projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rust-md:
+  A desktop markdown editor with a live reload fucntion, made on rust. 
+- planner.xyi (in collab w/[Ataha322](https://github.com/ataha322): 
+  A simple broweser-based productivity tool based on a simple checklist.
+  
+  
+I am also interested in making my own cyberdecks so hmu for any advices :)
