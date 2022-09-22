@@ -16,4 +16,4 @@ My current projects:
   A simple broweser-based productivity tool based on a simple checklist.
   
   
-I am also interested in making my own cyberdecks so hmu for any advices :)
+I am also interested in making my own cyberdecks so hmu for any advice :)
