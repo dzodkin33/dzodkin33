@@ -1,14 +1,10 @@
-I am a 2nd year math-cs student at UCSD.
+I am a 3rd-year math-cs student at UCSD.
 
 My current projects:
 
-- Rust-md:
+- Rollfanatic
 
-  A desktop markdown editor with a live reload fucntion, made on rust. 
-  
-- planner.xyi (in collab w/[Ataha322](https://github.com/ataha322)): 
-
-  A simple broweser-based productivity tool based on a simple checklist.
+  An IOS mobile application that aids BJJ practitioners to keep track of their progress. 
   
   
 I am also interested in making my own cyberdecks so hmu for any advice :)
