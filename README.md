@@ -1,1 +1,1 @@
-I build stuff for other people to enjoy.
+git init enjoyer
